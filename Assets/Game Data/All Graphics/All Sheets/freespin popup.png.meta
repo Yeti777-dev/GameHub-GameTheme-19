@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 5805bd5239b0cc34aa05b3b237c219f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7597994590595013295
+    second: freespins_0
+  - first:
+      213: 4552638754514429426
+    second: freespins_1
+  - first:
+      213: -751718182386606168
+    second: freespins_2
+  - first:
+      213: 2778407601742302274
+    second: freespins_3
+  - first:
+      213: 7822817334978202754
+    second: freespins_4
+  - first:
+      213: 2593187254011954596
+    second: freespins_5
+  - first:
+      213: -5611758352203000729
+    second: freespins_6
+  - first:
+      213: -9062851549864374485
+    second: freespins_7
+  - first:
+      213: 7919322915903516139
+    second: freespins_8
+  - first:
+      213: 7040019142229818192
+    second: freespins_9
+  - first:
+      213: -148046876270557844
+    second: freespins_10
+  - first:
+      213: -2359106457601646234
+    second: freespins_11
+  - first:
+      213: 4231612227241976317
+    second: freespins_12
+  - first:
+      213: -2428018977908134098
+    second: freespins_13
+  - first:
+      213: -7250342881025216363
+    second: freespins_14
+  - first:
+      213: 8614517700354056830
+    second: freespin popup_0
+  - first:
+      213: 3743519182445680603
+    second: freespin popup_1
+  - first:
+      213: 2966570585337673316
+    second: freespin popup_2
+  - first:
+      213: -3341275928268795688
+    second: freespin popup_3
+  - first:
+      213: -9159818952209438098
+    second: freespin popup_4
+  - first:
+      213: 5486453380665419816
+    second: freespin popup_5
+  - first:
+      213: -4911294329341554752
+    second: freespin popup_6
+  - first:
+      213: 1423490993850320685
+    second: freespin popup_7
+  - first:
+      213: 6768044251823144164
+    second: freespin popup_8
+  - first:
+      213: -6053271108180730250
+    second: freespin popup_9
+  - first:
+      213: 1398911045111599942
+    second: freespin popup_10
+  - first:
+      213: -4050653147645643779
+    second: freespin popup_11
+  - first:
+      213: -147266604106313330
+    second: freespin popup_12
+  - first:
+      213: -4829754304683092236
+    second: freespin popup_13
+  - first:
+      213: -7843137162641332766
+    second: freespin popup_14
+  - first:
+      213: -1870380261608834861
+    second: freespin popup_3
+  - first:
+      213: 8795955567531434349
+    second: freespin popup_4
+  - first:
+      213: 8992560102755926637
+    second: freespin popup_5
+  - first:
+      213: 4626791881577358260
+    second: freespin popup_6
+  - first:
+      213: -1340121986416580562
+    second: freespin popup_7
+  - first:
+      213: -4079309417640577688
+    second: freespin popup_8
+  - first:
+      213: -5445345105469079194
+    second: freespin popup_9
+  - first:
+      213: -2194628227514072496
+    second: freespin popup_10
+  - first:
+      213: -1255342229496683557
+    second: freespin popup_11
+  - first:
+      213: 3232067591160944512
+    second: freespin popup_12
+  - first:
+      213: 6267683337501428125
+    second: freespin popup_13
+  - first:
+      213: 6307960750534075133
+    second: freespin popup_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freespin popup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541.3334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e722be0f43aec8770800000000000000
+      internalID: 8614517700354056830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 541.3334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71987ccd6a3f330800000000000000
+      internalID: 3743519182445680603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 541.3334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466bc24da306b2920800000000000000
+      internalID: 2966570585337673316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0528af4314d1b81e0800000000000000
+      internalID: 1398911045111599942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1.3333435
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3ad43b4e0249ee0800000000000000
+      internalID: -4050653147645643779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 541.3334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d099fefe3761a1d0800000000000000
+      internalID: -3341275928268795688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 541.3334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a6aaa9139c1e080800000000000000
+      internalID: -9159818952209438098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271.33334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828ad4ff74cc32c40800000000000000
+      internalID: 5486453380665419816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 271.33334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc43024d397dbb0800000000000000
+      internalID: -4911294329341554752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 271.33334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278a65548141c310800000000000000
+      internalID: 1423490993850320685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 271.33334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfa0e636ceced50800000000000000
+      internalID: 6768044251823144164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 271.33334
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e90cbaff57efba0800000000000000
+      internalID: -6053271108180730250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1.3333435
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8117f6cdcdc4fdf0800000000000000
+      internalID: -147266604106313330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1.3333435
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f653fc8c0449fcb0800000000000000
+      internalID: -4829754304683092236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freespin popup_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1.3333435
+        width: 480
+        height: 270.66666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e529182e44972390800000000000000
+      internalID: -7843137162641332766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      freespin popup_0: 8614517700354056830
+      freespin popup_1: 3743519182445680603
+      freespin popup_10: 1398911045111599942
+      freespin popup_11: -4050653147645643779
+      freespin popup_12: -147266604106313330
+      freespin popup_13: -4829754304683092236
+      freespin popup_14: -7843137162641332766
+      freespin popup_2: 2966570585337673316
+      freespin popup_3: -3341275928268795688
+      freespin popup_4: -9159818952209438098
+      freespin popup_5: 5486453380665419816
+      freespin popup_6: -4911294329341554752
+      freespin popup_7: 1423490993850320685
+      freespin popup_8: 6768044251823144164
+      freespin popup_9: -6053271108180730250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

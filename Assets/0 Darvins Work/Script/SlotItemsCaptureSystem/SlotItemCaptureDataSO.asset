@@ -1,0 +1,320 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 421952dd5ea8cbc42b66442f149b5116, type: 3}
+  m_Name: SlotItemCaptureDataSO
+  m_EditorClassIdentifier: Assembly-CSharp::SlotItemCaptureDataSO
+  RootFileAddress: D:/Work/Mohit/Game Hub/Unity/GameHubSlots-Unity/Assets/Game Data/All
+    Graphics/ReplaceGraphics/All icons Spries animations
+  RootSlotItemsAddress: D:/Work/Mohit/Game Hub/Unity/GameHubSlots-Unity/Assets/Game
+    Data/All Graphics/ReplaceGraphics/slot items normal
+  ItemBackgroundFrames:
+  - {fileID: -7471868898670030890, guid: 8c70216dbf0102c4fad5e460cd116cd7, type: 3}
+  - {fileID: 7566109364396011561, guid: 67f01e8a4bb37524fa585f7a4afa05c5, type: 3}
+  - {fileID: -7672799533849371706, guid: 7d56b56aad024da4f9d8cef89367781b, type: 3}
+  - {fileID: -5256799905075828412, guid: 80b9e69717de5fa44b96c5f449331721, type: 3}
+  - {fileID: -8194860550322828061, guid: e4d3477f1281fca43ae24404fb48f6d1, type: 3}
+  - {fileID: -4243702216268033837, guid: 743d3e2c6a84e8b479d74084732c439b, type: 3}
+  - {fileID: -4312314718721688648, guid: 6e8c18f5e1aa8044c81d607dc4ca4df4, type: 3}
+  - {fileID: 1478728045246036641, guid: 5cbe87abb71fba5499f0b0dd90c5b537, type: 3}
+  - {fileID: -2097341115093660361, guid: 226e5a9d83d99104e8df7b29cbdd579f, type: 3}
+  - {fileID: 5801675747657924006, guid: 0acf6dd0e7c13884f9657c6fbe183288, type: 3}
+  slotItemCaptureDatas:
+  - itemFileName: 04_
+    slotItemsName: item 9
+    frames:
+    - {fileID: 21300000, guid: d1466eb60cf20c34398b3917d2911559, type: 3}
+    - {fileID: 21300000, guid: 4a8046d7a9c003a4abc8f4065552e9b5, type: 3}
+    - {fileID: 21300000, guid: 1347294693cf03a44bfe7626e2374ecf, type: 3}
+    - {fileID: 21300000, guid: 9157dcbd1e68ca24aa3fee3c26e15554, type: 3}
+    - {fileID: 21300000, guid: df2ad057dfccfb649a4dc57d4fac130f, type: 3}
+    - {fileID: 21300000, guid: 9a2048f52ba8e5b43bc04afe097374cd, type: 3}
+    - {fileID: 21300000, guid: ef73e0278e9743f428e631824d981a93, type: 3}
+    - {fileID: 21300000, guid: b1bcadc6cddae01479b7171db58b8ef5, type: 3}
+    - {fileID: 21300000, guid: 38f94a39c52d1bb44aaf025537fb12cf, type: 3}
+    - {fileID: 21300000, guid: 4f9cbfedeb5a18b42b3fe1fe65f044d5, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 08_
+    slotItemsName: item 8
+    frames:
+    - {fileID: 21300000, guid: 7d26855a00d479d4193bdd64e8b3c004, type: 3}
+    - {fileID: 21300000, guid: 39c184f01cd652149a2806ca4688b77f, type: 3}
+    - {fileID: 21300000, guid: ecc03e1096bb61d4990ce63acb0ce88e, type: 3}
+    - {fileID: 21300000, guid: 0748c51cc84da97459c9528c688fc299, type: 3}
+    - {fileID: 21300000, guid: c3068126e6a17134e9ad85a3cd581275, type: 3}
+    - {fileID: 21300000, guid: ce2cd381b80ea5e42b36b744893ad932, type: 3}
+    - {fileID: 21300000, guid: d500a952b3600464ca8788bb625a6dd0, type: 3}
+    - {fileID: 21300000, guid: c09e23131273dd140b7cc4cd2a9a0781, type: 3}
+    - {fileID: 21300000, guid: 8c844d523355a5946807056bcf69bd95, type: 3}
+    - {fileID: 21300000, guid: 4f9793f0f99611a4f8ec477ec245756c, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 06_
+    slotItemsName: item 7
+    frames:
+    - {fileID: 21300000, guid: 18a9053f6de4de449be1e1be052417d3, type: 3}
+    - {fileID: 21300000, guid: 5150c237fd988cc47b6f32e982364f06, type: 3}
+    - {fileID: 21300000, guid: 894e4446988a4f343b60a790676ff5c4, type: 3}
+    - {fileID: 21300000, guid: 524c4453789bf2947ae96fef83c59166, type: 3}
+    - {fileID: 21300000, guid: f1f38c138afd6e24cb0e8bee8d4faead, type: 3}
+    - {fileID: 21300000, guid: 29406a12d87c96647945e22670912e2f, type: 3}
+    - {fileID: 21300000, guid: 07daaf3bd6bec1f4f9a27d8b8ff56ffc, type: 3}
+    - {fileID: 21300000, guid: 762c86d8b35f4834681454d4460dce8e, type: 3}
+    - {fileID: 21300000, guid: a4f1ffa62b08d664db6dd4a2c79c90e5, type: 3}
+    - {fileID: 21300000, guid: 6c894da8eeba48945be85c17bbf29269, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 07_
+    slotItemsName: item 6
+    frames:
+    - {fileID: 21300000, guid: b62cb0d1591476a4db0c2e41d64252b9, type: 3}
+    - {fileID: 21300000, guid: 4a86d8d3319c57d409e597b9fa92e2df, type: 3}
+    - {fileID: 21300000, guid: 8e1876521eca1ca4ca13ceabe864d21c, type: 3}
+    - {fileID: 21300000, guid: 07c96ce627cf05946a6d3b84c36a5712, type: 3}
+    - {fileID: 21300000, guid: a04b60296cd7acd49b94fc8b35aace51, type: 3}
+    - {fileID: 21300000, guid: e3533c8075ea86e4c8052ff0bd1296fc, type: 3}
+    - {fileID: 21300000, guid: 91b62ca1d95452f41a0491a2ebf1d589, type: 3}
+    - {fileID: 21300000, guid: 843bc4dcd655b9d459aaa85f96667442, type: 3}
+    - {fileID: 21300000, guid: eb60f9f02aeeb204795d58fe18919899, type: 3}
+    - {fileID: 21300000, guid: ba08277125dd35f42961eddf4756f68c, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 09_
+    slotItemsName: item 5
+    frames:
+    - {fileID: 21300000, guid: 0fdf673297150384e833a72d2f36980e, type: 3}
+    - {fileID: 21300000, guid: bb109e12470755740910ce5c0acbe3d3, type: 3}
+    - {fileID: 21300000, guid: 1656f5e4f455f2145a4bc35f0d92fe8d, type: 3}
+    - {fileID: 21300000, guid: 537b5bff1bc2b26488e704410a8eb26a, type: 3}
+    - {fileID: 21300000, guid: 4d87abb9f07ea564d94e047e09580948, type: 3}
+    - {fileID: 21300000, guid: 8e7833eb8927fa646ab17c98b1ffef25, type: 3}
+    - {fileID: 21300000, guid: 8afbd43753c0e4749aef997e79f9f5b7, type: 3}
+    - {fileID: 21300000, guid: bb15633eb57a16246a38cb68b397bacf, type: 3}
+    - {fileID: 21300000, guid: 23d8b060427dc9747b4049deb8c28d15, type: 3}
+    - {fileID: 21300000, guid: bedd3a9438678714a8bf5c6eb624f5db, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 02_
+    slotItemsName: item 4
+    frames:
+    - {fileID: 21300000, guid: 726e95ea5e13b1143aa14ca157e9cb21, type: 3}
+    - {fileID: 21300000, guid: ac985a0c2088cc14fa16d1e4c2f7816b, type: 3}
+    - {fileID: 21300000, guid: 3d02a195e36e87a4a974ddda371ed74f, type: 3}
+    - {fileID: 21300000, guid: 5b239ee9b4e59c44e82a8c14f73e05ee, type: 3}
+    - {fileID: 21300000, guid: c5600a4ab3a9ba94cbefa912336c6793, type: 3}
+    - {fileID: 21300000, guid: 5771b2d31e500c54f8090d5ec5ec6b64, type: 3}
+    - {fileID: 21300000, guid: 7d3c97b148a66b648863fbacbf594271, type: 3}
+    - {fileID: 21300000, guid: 1e81a81fb5287eb4c931ce597859c2d8, type: 3}
+    - {fileID: 21300000, guid: 86bb28574e1315640947c33eed6910c1, type: 3}
+    - {fileID: 21300000, guid: dde38003200c49247a68b22fba34eff0, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 12_
+    slotItemsName: item 3
+    frames:
+    - {fileID: 21300000, guid: a6f49fae5d3c08645822defcf9fc7afe, type: 3}
+    - {fileID: 21300000, guid: 69fd4be75a2a98a41b84e305c0586d93, type: 3}
+    - {fileID: 21300000, guid: 55bf8f2d7c1abe244a88747e6560ab51, type: 3}
+    - {fileID: 21300000, guid: 05124e38904882349859a351f32461da, type: 3}
+    - {fileID: 21300000, guid: 392dd3e14fea8e54d96565bed2d490db, type: 3}
+    - {fileID: 21300000, guid: 205df68a1df001a4eb89a6026ac188fa, type: 3}
+    - {fileID: 21300000, guid: ea4926deef4ae7e4d94634992b43f205, type: 3}
+    - {fileID: 21300000, guid: 7b089c89b24227048bdcfd336667321a, type: 3}
+    - {fileID: 21300000, guid: c27fef0d00127d14c941bf1899dff147, type: 3}
+    - {fileID: 21300000, guid: 1e78d550867599847a91511bd9d77f03, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 01_
+    slotItemsName: item 2
+    frames:
+    - {fileID: 21300000, guid: 7ddaaba55310f0e4ca8d6fcabd739f5d, type: 3}
+    - {fileID: 21300000, guid: f3655ecfd7c52fb46b3a126a534f0383, type: 3}
+    - {fileID: 21300000, guid: 967983914613e9e4394d13ce0bef9248, type: 3}
+    - {fileID: 21300000, guid: caa4195ced5899b48915aca8e4c087c6, type: 3}
+    - {fileID: 21300000, guid: faf2b3390b948844491e8a0ac9e45266, type: 3}
+    - {fileID: 21300000, guid: 5a459df9b8b535b4da5ae49a3f94ade7, type: 3}
+    - {fileID: 21300000, guid: c15744a204a3aa145a0ef5fb2c8988e0, type: 3}
+    - {fileID: 21300000, guid: 4cd71e9b0b93d644c80393fdd49dd092, type: 3}
+    - {fileID: 21300000, guid: 96fac46c802c3cf4a9ecb5cb9ce87bdc, type: 3}
+    - {fileID: 21300000, guid: ff68b7a62c3b3e643b457e6f287b2364, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 11_
+    slotItemsName: item 1
+    frames:
+    - {fileID: 21300000, guid: c75a0a49221e07b4cb032900c1132806, type: 3}
+    - {fileID: 21300000, guid: 904f75803288c774294bda360e35d45a, type: 3}
+    - {fileID: 21300000, guid: 8fbfb4c0699548d459dd533c72ef6aec, type: 3}
+    - {fileID: 21300000, guid: 8d80dbe7a9a21d94b81aba25d68c32dd, type: 3}
+    - {fileID: 21300000, guid: 0f9cc08278965eb4e94a4276a3b86f5e, type: 3}
+    - {fileID: 21300000, guid: d4bea4f0dca173b4c83419bdfbbf05b0, type: 3}
+    - {fileID: 21300000, guid: 409239a23c2f93341a28f64df008b41c, type: 3}
+    - {fileID: 21300000, guid: 765bdcb0239b0d541b6db2e96f50a2fc, type: 3}
+    - {fileID: 21300000, guid: 25c785d1303985341b37a91239347055, type: 3}
+    - {fileID: 21300000, guid: 71fe947830be5e040a854f7175462671, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 03_
+    slotItemsName: bonus
+    frames:
+    - {fileID: 21300000, guid: 0d2479bb70913144bb3b9a1d34d79b5b, type: 3}
+    - {fileID: 21300000, guid: 34bd4bd3dde48fd4bb58f8e44ffc77a3, type: 3}
+    - {fileID: 21300000, guid: 7760d10129572a54795e081b5db78922, type: 3}
+    - {fileID: 21300000, guid: e8cd4f76c2aa6e04d83da38bdc7373ee, type: 3}
+    - {fileID: 21300000, guid: b4fb4f8f2f94c49408561fc6d163e66c, type: 3}
+    - {fileID: 21300000, guid: a2e1900d3dd56b945a64a5502bdcdb81, type: 3}
+    - {fileID: 21300000, guid: 35bb9cffcf930724a9d694c09cfbb0a4, type: 3}
+    - {fileID: 21300000, guid: 31ff334cca204d243837a42e9baf75f7, type: 3}
+    - {fileID: 21300000, guid: fa29391eeb7f31b4f84996f1bc8239be, type: 3}
+    - {fileID: 21300000, guid: c760dacba138ca14e8e88d292bed12b8, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: 10_
+    slotItemsName: freespins
+    frames:
+    - {fileID: 21300000, guid: b35a94338d017b64a9bd3375b36518a3, type: 3}
+    - {fileID: 21300000, guid: 32eadd5dc0075f74b8bb626103a1175f, type: 3}
+    - {fileID: 21300000, guid: f05df69a7885fea4c962bee0952ef2a0, type: 3}
+    - {fileID: 21300000, guid: 3f947549ce82fed44bf26d0033dc61fe, type: 3}
+    - {fileID: 21300000, guid: ef0cc48571ea0aa45bc45772db0860ef, type: 3}
+    - {fileID: 21300000, guid: 2fd1a6d24d23bae40baa0be60e5b8d65, type: 3}
+    - {fileID: 21300000, guid: a2586f7741e7f824ba9f8a1c4d9e902c, type: 3}
+    - {fileID: 21300000, guid: fc4bf04bd21b31f49b2a0461f771844a, type: 3}
+    - {fileID: 21300000, guid: e6b051a79b613d04eb1b52a1c3ca9066, type: 3}
+    - {fileID: 21300000, guid: ef34983523535a942a38fbcff15227c5, type: 3}
+    isItemActive: 1
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027
+  - itemFileName: TEMPLATE_
+    slotItemsName: item
+    frames: []
+    isItemActive: 0
+    frameNames:
+    - 00000
+    - 00003
+    - 00006
+    - 00009
+    - 00012
+    - 00015
+    - 00018
+    - 00021
+    - 00024
+    - 00027

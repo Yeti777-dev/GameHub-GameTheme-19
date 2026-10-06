@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 9cf61eaf2c228bd479feec5331c70efe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: brick-blast-effect_0
+  - first:
+      213: 21300002
+    second: brick-blast-effect_1
+  - first:
+      213: 21300004
+    second: brick-blast-effect_2
+  - first:
+      213: 21300006
+    second: brick-blast-effect_3
+  - first:
+      213: 21300008
+    second: brick-blast-effect_4
+  - first:
+      213: 21300010
+    second: brick-blast-effect_5
+  - first:
+      213: 21300012
+    second: brick-blast-effect_6
+  - first:
+      213: 21300014
+    second: brick-blast-effect_7
+  - first:
+      213: 21300016
+    second: brick-blast-effect_8
+  - first:
+      213: 21300018
+    second: brick-blast-effect_9
+  - first:
+      213: 21300020
+    second: brick-blast-effect_10
+  - first:
+      213: 21300022
+    second: brick-blast-effect_11
+  - first:
+      213: 21300024
+    second: brick-blast-effect_12
+  - first:
+      213: 21300026
+    second: brick-blast-effect_13
+  - first:
+      213: 21300028
+    second: brick-blast-effect_14
+  - first:
+      213: 21300030
+    second: brick-blast-effect_15
+  - first:
+      213: 21300032
+    second: brick-blast-effect_16
+  - first:
+      213: 21300034
+    second: brick-blast-effect_17
+  - first:
+      213: 21300036
+    second: brick-blast-effect_18
+  - first:
+      213: 21300038
+    second: brick-blast-effect_19
+  - first:
+      213: 21300040
+    second: brick-blast-effect_20
+  - first:
+      213: 21300042
+    second: brick-blast-effect_21
+  - first:
+      213: 21300044
+    second: brick-blast-effect_22
+  - first:
+      213: 21300046
+    second: brick-blast-effect_23
+  - first:
+      213: 21300048
+    second: brick-blast-effect_24
+  - first:
+      213: 21300050
+    second: brick-blast-effect_25
+  - first:
+      213: 21300052
+    second: brick-blast-effect_26
+  - first:
+      213: 21300054
+    second: brick-blast-effect_27
+  - first:
+      213: 21300056
+    second: brick-blast-effect_28
+  - first:
+      213: 21300058
+    second: brick-blast-effect_29
+  - first:
+      213: 21300060
+    second: brick-blast-effect_30
+  - first:
+      213: 21300062
+    second: brick-blast-effect_31
+  - first:
+      213: 240070657610329376
+    second: bonusbox sheet_0
+  - first:
+      213: 2873659501905250157
+    second: bonusbox sheet_1
+  - first:
+      213: -347153335586671466
+    second: bonusbox sheet_2
+  - first:
+      213: -8838845613345800416
+    second: bonusbox sheet_3
+  - first:
+      213: -2548141589528994376
+    second: bonusbox sheet_4
+  - first:
+      213: 1702412440706705031
+    second: bonusbox sheet_5
+  - first:
+      213: -6624797845476293226
+    second: bonusbox sheet_6
+  - first:
+      213: -7066805118933908363
+    second: bonusbox sheet_7
+  - first:
+      213: 5936571535617860329
+    second: bonusbox sheet_8
+  - first:
+      213: -8309290996207213983
+    second: bonusbox sheet_9
+  - first:
+      213: 3080542479218341946
+    second: bonusbox sheet_10
+  - first:
+      213: -1822231710668376545
+    second: bonusbox sheet_11
+  - first:
+      213: 8175241031100285548
+    second: bonusbox sheet_12
+  - first:
+      213: 4081316564025935590
+    second: bonusbox sheet_13
+  - first:
+      213: 5697334197967941615
+    second: bonusbox sheet_14
+  - first:
+      213: -1901596992329716673
+    second: bonusbox sheet_15
+  - first:
+      213: 2378863498414196974
+    second: bonusbox sheet_16
+  - first:
+      213: -6245932741153064972
+    second: bonusbox sheet_17
+  - first:
+      213: 834047683445197350
+    second: bonusbox sheet_18
+  - first:
+      213: -7585584537549174413
+    second: bonusbox sheet_19
+  - first:
+      213: 6770221035360258366
+    second: bonusbox sheet_20
+  - first:
+      213: -7169824047449339192
+    second: bonusbox sheet_21
+  - first:
+      213: 7347060004828954871
+    second: bonusbox sheet_22
+  - first:
+      213: -5908788962346965686
+    second: bonusbox sheet_23
+  - first:
+      213: 6082745851356419035
+    second: bonusbox sheet_24
+  - first:
+      213: 3394546240720840595
+    second: bonusbox sheet_25
+  - first:
+      213: -6647282760242687888
+    second: bonusbox sheet_26
+  - first:
+      213: -4787063342977825847
+    second: bonusbox sheet_27
+  - first:
+      213: 5162376822189309988
+    second: bonusbox sheet_28
+  - first:
+      213: 2617912927992987175
+    second: bonusbox sheet_29
+  - first:
+      213: -8730359946707725736
+    second: bonusbox sheet_30
+  - first:
+      213: -4265004152888956743
+    second: bonusbox sheet_31
+  - first:
+      213: -3943255333091806281
+    second: bonusbox sheet_5
+  - first:
+      213: -5939347557128320847
+    second: bonusbox sheet_6
+  - first:
+      213: -2758385371703918368
+    second: bonusbox sheet_7
+  - first:
+      213: 4404798111159447094
+    second: bonusbox sheet_8
+  - first:
+      213: -1305062484183446708
+    second: bonusbox sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bonusbox sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dabdbbdf6e45300800000000000000
+      internalID: 240070657610329376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670d78771a41e720800000000000000
+      internalID: 2873659501905250157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694b3cd61e9ae2bf0800000000000000
+      internalID: -347153335586671466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff000bebc165580800000000000000
+      internalID: -8838845613345800416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd99b699be23acd0800000000000000
+      internalID: -2548141589528994376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f564ba2eb649c0800000000000000
+      internalID: 1702412440706705031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 312
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b848c36dd2339da0800000000000000
+      internalID: -6624797845476293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e044f57e1f38b9d0800000000000000
+      internalID: -7066805118933908363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e68f26b8cf02d30800000000000000
+      internalID: 5936571535617860329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8e8cc59c73ede0800000000000000
+      internalID: -8309290996207213983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387f4d301940ca20800000000000000
+      internalID: 3080542479218341946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b82be9e126b6e0800000000000000
+      internalID: -1822231710668376545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624eeb476a447170800000000000000
+      internalID: 8175241031100285548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bonusbox sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 0
+        width: 272
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e60fae8acfb3a830800000000000000
+      internalID: 4081316564025935590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5314fd36772aa4c41aaa28afd333de97
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bonusbox sheet_0: 240070657610329376
+      bonusbox sheet_1: 2873659501905250157
+      bonusbox sheet_10: 3080542479218341946
+      bonusbox sheet_11: -1822231710668376545
+      bonusbox sheet_12: 8175241031100285548
+      bonusbox sheet_13: 4081316564025935590
+      bonusbox sheet_2: -347153335586671466
+      bonusbox sheet_3: -8838845613345800416
+      bonusbox sheet_4: -2548141589528994376
+      bonusbox sheet_5: 1702412440706705031
+      bonusbox sheet_6: -6624797845476293226
+      bonusbox sheet_7: -7066805118933908363
+      bonusbox sheet_8: 5936571535617860329
+      bonusbox sheet_9: -8309290996207213983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

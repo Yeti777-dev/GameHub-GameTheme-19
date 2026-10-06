@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1652ef67ceaec944ba9d10f475be70de
+timeCreated: 1452277304
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - freeSpinIndicationPrefeb: {fileID: 100000, guid: 6cf096b885b7e7e4c974fcd1c11e8d0e,
+      type: 2}
+  - bonusRoundPrefeb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
